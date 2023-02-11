@@ -1,1 +1,1 @@
-# demo-project
+# react-demo-project
